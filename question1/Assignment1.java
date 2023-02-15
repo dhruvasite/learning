@@ -38,7 +38,7 @@ public class Assignment1 {
 		
 		shape.show();
 		circle.show();
-		rectangle.show();
+       //        rectangle.show();
 		
 	System.out.println();
 	
